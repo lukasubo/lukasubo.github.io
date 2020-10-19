@@ -50,6 +50,10 @@ minima:
 #header_pages:
 # - about.md
 
+collections:
+  - projects
+  - leadership
+
 # Build settings
 theme: minima
 
