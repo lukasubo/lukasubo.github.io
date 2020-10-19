@@ -51,8 +51,10 @@ minima:
 # - about.md
 
 collections:
-  - projects
-  - leadership
+  projects:
+    output: true
+  leadership:
+    output: true
 
 # Build settings
 theme: minima
